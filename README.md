@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tushar Kapse</h1>
 <h3 align="center">A hustling Programmer.</h3>
 
-<img align="right" alt="Hustle" width="400" src="https://tenor.com/view/coding-typing-pc-laptop-power-gif-21599707">
+<img align="right" alt="coding" width="200" src="https://media.tenor.com/ITc1hNBSH_wAAAAM/coding-typing.gif">
 
 - 🌱 I’m currently learning **Ai/ml.**
 
